@@ -1,4 +1,4 @@
-connection: "aws_optimizer"
+connection: "centricitycrawled3""
 
 # include all the views
 include: "*.view"
