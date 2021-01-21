@@ -1,4 +1,4 @@
-connection: "centricitycrawled3""
+connection: "centricitycrawled4"
 
 # include all the views
 include: "*.view"
